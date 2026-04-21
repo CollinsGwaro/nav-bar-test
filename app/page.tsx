@@ -12,7 +12,7 @@ export default function Navbar() {
 
         {/* Logo */}
         <div className="font-bold text-lg color-red">
-          MySite
+          MySite-Update
         </div>
 
         {/* Desktop Menu */}
@@ -21,7 +21,6 @@ export default function Navbar() {
           <a href="#" className="hover:text-blue-600">About</a>
           <a href="#" className="hover:text-blue-600">Services</a>
           <a href="#" className="hover:text-blue-600">Contact</a>
-          <a href="#" className="hover:text-blue-600">Contact-2</a>
 
         </div>
 
