@@ -11,7 +11,7 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
 
         {/* Logo */}
-        <div className="font-bold text-lg">
+        <div className="font-bold text-lg color-red">
           MySite
         </div>
 
